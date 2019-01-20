@@ -1,4 +1,3 @@
-# **Code Coming Soon** 
 # **PIC Programming Tutorial #17 - Sleep (Power States)**
 
 This demonstrates how to put a PIC microcontroller into deep sleep and idle run state to save power consumption and waking the PIC microcontroller using a wake from interrupts. Using the XC8 compiler with MPLAB X and a PIC18F4520.
